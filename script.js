@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-    const apiKey = "8324505bd76928701327bcc8caaea0a32a1cb08c"; // Replace with your Bitly API key
+    const apiKey = "8324505bd76928701327bcc8caaea0a32a1cb08c"; 
     const longUrlInput = document.getElementById("long-url");
     const shortenBtn = document.getElementById("shorten-btn");
     const resultDiv = document.getElementById("result");
